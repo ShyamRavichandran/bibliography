@@ -1,0 +1,47 @@
+#Form
+{
+    background-color: white;
+    height:400px;
+    width:200px;
+    float:left;
+    
+}
+body
+{
+ background-color: white;   
+}
+#header
+{
+    background-color:lightgrey;
+	height:80px;
+}
+h1
+{
+    margin-bottom:0;
+}
+#ChangeLibrary
+{
+    background-color:Lightgrey;
+    height:100px;
+    width:200px;
+    float:left;
+}
+#CreateLibrary
+{
+    background-color:#777775;
+    height:100px;
+    width:200px;
+    float:left;
+}
+Table2
+{
+    border-spacing: 0px;
+}
+scrollit 
+{
+    overflow:scroll;
+    height:100px;
+    
+}
+
+
